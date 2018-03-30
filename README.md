@@ -1,4 +1,4 @@
-# SpainSpanishPolitics
+# SpainPoliticsAnalytics
 Proyecto para la asignatura optativa de Computación Distribuida.
 
 ## Getting Started
